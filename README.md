@@ -1,3 +1,5 @@
+### This is an exercise on different event handler binding methods i.e. bind in constructor, bind with public class field, bind with arrow function and bind in render.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
